@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6381E27E-A059-488E-B960-59DB0E2B0DC7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodeWars1/Program.cs">
+    <Files>
+      <File FileName="CodeWars1/Program.cs" Line="42" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/junecho/Projects/CodeWars1/CodeWars1/Program.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CodeWars1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
